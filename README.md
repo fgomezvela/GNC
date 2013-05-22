@@ -1,4 +1,4 @@
-GNC: Gene Network Coherence
+﻿GNC: Gene Network Coherence
 ===========================
 
 This is a Java software for analyzing gene networks coherence using graph theory.
@@ -8,7 +8,7 @@ This application can be used in linux, mac, and windows. On the other hand, GNC 
 
 To use this tool, you must first download the GNC.exe file. This file is a self-extracting package and it contains all necesary items.
 
-Furthermore, inside the repository there is one random yeast gene network for testing the tool. It is called "Example Input Network.txt"
+Furthermore, inside the repository there is one folder called "Sample Data". This folder contains Costanzo and Gene Net Weaver yeast gene network for testing the tool. It is called "Example Input Network.txt"
 
 
 
