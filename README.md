@@ -45,6 +45,6 @@ GNC works using 2 necessary folders, “BBDD and Matrices”. If both folders ar
 
 COPYRIGHT
 =========
-(<a href="http://www.upo.es/eps/fgomez/"Francisco Gómez Vela</a>) (<a href="mailto:fgomez@upo.es">fgomez@upo.es</a>), José Antonio Lagares (<a href="mailto:jalagrod@gmail.com">jalagrod@gmail.com</a>), (<a href="http://www.upo.es/eps/ndiaz/">Norberto Díaz-Díaz</a>) (<a href="mailto:ndiaz@upo.es">ndiaz@upo.es</a>) and (<a href="http://www.upo.es/eps/aguilar/">Jesús S. Aguilar-Ruiz </a>)(<a href="mailto:aguilar@upo.es">aguilar@upo.es</a>). 
+<a href="http://www.upo.es/eps/fgomez/" Francisco Gómez Vela</a> (<a href="mailto:fgomez@upo.es">fgomez@upo.es</a>), José Antonio Lagares (<a href="mailto:jalagrod@gmail.com">jalagrod@gmail.com</a>), <a href="http://www.upo.es/eps/ndiaz/">Norberto Díaz-Díaz</a> (<a href="mailto:ndiaz@upo.es">ndiaz@upo.es</a>) and <a href="http://www.upo.es/eps/aguilar/">Jesús S. Aguilar-Ruiz </a>(<a href="mailto:aguilar@upo.es">aguilar@upo.es</a>). 
 
 Copyright © 2013 Universidad Pablo de Olavide, Spain.
