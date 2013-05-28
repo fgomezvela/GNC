@@ -1,4 +1,4 @@
-﻿GNiC: Gene Network inCoherence
+﻿GNiC: Gene Network inCoherence with direct and indirect relationships.
 ===========================
 
 This is a Java software for analyzing gene networks incoherence conisdering direct and indirect relationships.
