@@ -4,11 +4,11 @@
   <head>
     <meta charset='utf-8' />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="GNC : A software for analyzing gene networks coherence using graph theory" />
+    <meta name="description" content="GNiC : Gene Network inCoherence considering direct and indirect relationships" />
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>GNC</title>
+    <title>GNiC</title>
   </head>
 
   <body>
@@ -16,14 +16,14 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <a id="forkme_banner" href="https://github.com/fgomezvela/GNC">View on GitHub</a>
+          <a id="forkme_banner" href="https://github.com/fgomezvela/GNiC">View on GitHub</a>
 
-          <h1 id="project_title">GNC</h1>
-          <h2 id="project_tagline">A software for analyzing gene networks coherence using graph theory</h2>
+          <h1 id="project_title">GNiC</h1>
+          <h2 id="project_tagline">Gene Network inCoherence considering direct and indirect relationships</h2>
 
             <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/fgomezvela/GNC/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/fgomezvela/GNC/tarball/master">Download this project as a tar.gz file</a>
+              <a class="zip_download_link" href="https://github.com/fgomezvela/GNiC/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/fgomezvela/GNiC/tarball/master">Download this project as a tar.gz file</a>
             </section>
         </header>
     </div>
@@ -31,59 +31,54 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h1>GNC: Gene Network Coherence</h1>
+        <h1>GNiC: Gene Network inCoherence</h1>
 
-<h1></h1>
+<p>This is a Java software for analyzing gene networks incoherence conisdering direct and indirect relationships.
+The executable file is on GNiC Repository.</p>
 
-<p>This is a Java software for analyzing gene networks coherence using graph theory.<br>
-The executable file is on <a href="https://github.com/JoseAntonioLagares/GNC">GNC Repository</a>.</p>
+<p>This application can be used in linux, mac, and windows. On the other hand, GNiC software is parallelized using threads. If your computer allows multi-threading operation, result will be showed in a shorter period of time.</p>
 
-<h1></h1>
+<p>To use this tool, you must download the GNiC.zip file. Furthermore, inside this zip file,there is one folder called "GNiC". This folder contains several crucial information to the jar file. Also, it contains many yeast gene network for testing the tool grouped as "Input Network" and "Biological Databases". </p>
 
-<p>This application can be used in linux, mac, and windows. On the other hand, GNC software is parallelized using threads. If your computer allows multi-threading operation, result will be showed in a shorter period of time.</p>
+<h1>Usage information</h1>
 
-<p>To use this tool, you must first download the GNC.exe file. This file is a self-extracting package and it contains all necesary items.</p>
-
-<p>Furthermore, inside the repository there is one random yeast gene network for testing the tool. It is called "Example Input Network.txt"</p>
-
-<h2>Usage information</h2>
-
-<h1></h1>
-
-<p>To launch the app you must do a double click in “GNC.jar”. Automatically, a main windows will be appear. 
-In this windows, a input network and well known databases can be chosen to star the process. As results will be obtained by the app, they will be showed.</p>
+<p>To launch the app, extract the zip file and do a double click in “GNiC.jar”. Automatically, a main windows will be appear. In this windows, a input network and well known databases can be chosen to star the process. As results will be obtained by the app, they will be showed.</p>
 
 <p>If you have any question, please read "User Guide" for more details.</p>
 
-<h2>Troubleshooting and F.A.Q.</h2>
+<h1>Troubleshooting and F.A.Q.</h1>
 
-<h1></h1>
+<p>*Be patient. Although this program is fully optimized, usually it takes a long time.
+*Make sure that you dispose the lastest Java update installed.
+*Give to Java Virtual Machine enough memory. At least 2048 MB. The more memory, the better.
+*News input network and biological databases files must be a “.txt” file and it must have the following aspect:</p>
 
-<ul>
-<li>Be patient. Although this program is fully optimized, usually it takes a long time.</li>
-<li>
-<p>Input network files must be a “.txt” file and it must have the following aspect.</p>
+<p>Node1,Node2</p>
 
-<pre><code> Node1,Node2
- Node1,Node3     
- ...
- Node1,Node N
- ...
- Node N, Node M
-</code></pre>
-</li>
-<li><p>An input network without data will be represented with coherence value of 1. Furthermore, this fact will be appearing if the file does not perform the previous structure.</p></li>
-<li><p>GNC works using 2 necessary folders, “BBDD and Matrices”. If both folders are not included with the jar file, an error message will be appear. Under no circumstances shall be modified.</p></li>
-</ul><p>AUTHOR:
-Francisco Gómez Vela <a href="mailto:fgomez@upo.es">fgomez@upo.es</a>, José Antonio Lagares <a href="mailto:jalagrod@gmail.es">jalagrod@gmail.es</a>, Norberto Díaz Díaz <a href="mailto:ndiaz@upo.es">ndiaz@upo.es</a> and Jesús S. Aguilar-Rúiz <a href="mailto:aguilar@upo.es">aguilar@upo.es</a>.
-Copyright © 2013 Universidad Pablo de Olavide, Spain.</p>
+<p>Node1,Node3</p>
+
+<p>...</p>
+
+<p>Node1,Node N</p>
+
+<p>...</p>
+
+<p>Node N, Node M
+*Do not modify or handle the "GNiC" folder under any situation.
+*For more datails use "User Guide".</p>
+
+<h1>COPYRIGHT</h1>
+
+<p><a href="http://www.upo.es/eps/fgomez/">Francisco Gómez Vela</a> (<a href="mailto:fgomez@upo.es"></a><a href="mailto:fgomez@upo.es">fgomez@upo.es</a>), José Antonio Lagares (<a href="mailto:jalagrod@gmail.com"></a><a href="mailto:jalagrod@gmail.com">jalagrod@gmail.com</a>), <a href="http://www.upo.es/eps/ndiaz/">Norberto Díaz-Díaz</a> (<a href="mailto:ndiaz@upo.es"></a><a href="mailto:ndiaz@upo.es">ndiaz@upo.es</a>) and <a href="http://www.upo.es/eps/aguilar/">Jesús S. Aguilar-Ruiz </a>(<a href="mailto:aguilar@upo.es"></a><a href="mailto:aguilar@upo.es">aguilar@upo.es</a>). </p>
+
+<p>Copyright © 2013 Universidad Pablo de Olavide, Spain.</p>
       </section>
     </div>
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p class="copyright">GNC maintained by <a href="https://github.com/fgomezvela">fgomezvela</a></p>
+        <p class="copyright">GNiC maintained by <a href="https://github.com/fgomezvela">fgomezvela</a></p>
         <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
