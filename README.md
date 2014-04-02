@@ -1,6 +1,5 @@
-
 ﻿GNC: Using Graph Theory To Analyze Gene Network Coherence
-=====================================================================
+============================================
 
 This is a Java software for analyzing gene networks coherence using graph theory.
 The executable file is located on GNC Repository.
@@ -8,9 +7,9 @@ The executable file is located on GNC Repository.
 This application can be used in linux, mac, and windows. On the other hand, GNC software is parallelized using threads. If your computer allows multi-threading operation, result will be showed in a shorter period of time.
 
 To use this tool, you must download the GNC.zip file. Furthermore, inside this zip file,there is one folder called "GNC". This folder contains several crucial information to the jar file. 
-=======
+
 ﻿GNC: Using Graph Theory To Analyze Gene Network Coherence
-===========================
+===========================================
 
 This is a Java software for analyzing gene networks incoherence considering direct and indirect relationships.
 The executable file is on GNC Repository.
@@ -18,7 +17,6 @@ The executable file is on GNC Repository.
 This application can be used in linux, mac, and windows. On the other hand, GNC software is parallelized using threads. If your computer allows multi-threading operation, result will be showed in a shorter period of time.
 
 To use this tool, you must download the GNC.zip file. Furthermore, inside this zip file,there is one folder called "GNC". This folder contains several crucial information to the jar file. Also, it contains many yeast gene network for testing the tool grouped as "Input Network" and "Biological Databases". 
->>>>>>> e9a91b814f68aba8e2dbe188c22abfda2c16d996
 
 
 Usage information
@@ -54,6 +52,6 @@ Node N, Node M
 
 COPYRIGHT
 =========
-<a href="http://www.upo.es/eps/fgomez/">Francisco Gómez Vela</a> (<a href="mailto:fgomez@upo.es">fgomez@upo.es</a>), José Antonio Lagares (<a href="mailto:jalagrod@gmail.com">jalagrod@gmail.com</a>), <a href="http://www.upo.es/eps/ndiaz/">Norberto Díaz-Díaz</a> (<a href="mailto:ndiaz@upo.es">ndiaz@upo.es</a>) and <a href="http://www.upo.es/eps/aguilar/">Jesús S. Aguilar-Ruiz </a>(<a href="mailto:aguilar@upo.es">aguilar@upo.es</a>). 
+<a href="http://www.upo.es/eps/fgomez/">Francisco Gómez Vela</a> (<a href="mailto:fgomez@upo.es">fgomez@upo.es</a>), José Antonio Lagares (<a href="mailto:jalagrod@gmail.com">jalagrod@gmail.com</a>) and <a href="http://www.upo.es/eps/ndiaz/">Norberto Díaz-Díaz</a> (<a href="mailto:ndiaz@upo.es">ndiaz@upo.es</a>). 
 
 Copyright © 2013 Universidad Pablo de Olavide, Spain.
