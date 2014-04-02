@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿GNiC: Gene Network Incoherence with direct and indirect relationships
 =====================================================================
 
@@ -7,6 +8,17 @@ The executable file is located on GNC Repository.
 This application can be used in linux, mac, and windows. On the other hand, GNiC software is parallelized using threads. If your computer allows multi-threading operation, result will be showed in a shorter period of time.
 
 To use this tool, you must download the GNiC.zip file. Furthermore, inside this zip file,there is one folder called "GNiC". This folder contains several crucial information to the jar file. 
+=======
+﻿GNiC: Gene Network inCoherence with direct and indirect relationships.
+===========================
+
+This is a Java software for analyzing gene networks incoherence conisdering direct and indirect relationships.
+The executable file is on GNiC Repository.
+
+This application can be used in linux, mac, and windows. On the other hand, GNiC software is parallelized using threads. If your computer allows multi-threading operation, result will be showed in a shorter period of time.
+
+To use this tool, you must download the GNiC.zip file. Furthermore, inside this zip file,there is one folder called "GNC". This folder contains several crucial information to the jar file. Also, it contains many yeast gene network for testing the tool grouped as "Input Network" and "Biological Databases". 
+>>>>>>> e9a91b814f68aba8e2dbe188c22abfda2c16d996
 
 
 Usage information
