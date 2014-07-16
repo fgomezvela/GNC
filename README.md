@@ -1,18 +1,8 @@
 ﻿GNC: Using Graph Theory To Analyze Gene Network Coherence
-============================================
+===========================================
 
 This is a Java software for analyzing gene networks coherence using graph theory.
 The executable file is located on GNC Repository.
-
-This application can be used in linux, mac, and windows. On the other hand, GNC software is parallelized using threads. If your computer allows multi-threading operation, result will be showed in a shorter period of time.
-
-To use this tool, you must download the GNC.zip file. Furthermore, inside this zip file,there is one folder called "GNC". This folder contains several crucial information to the jar file. 
-
-﻿GNC: Using Graph Theory To Analyze Gene Network Coherence
-===========================================
-
-This is a Java software for analyzing gene networks incoherence considering direct and indirect relationships.
-The executable file is on GNC Repository.
 
 This application can be used in linux, mac, and windows. On the other hand, GNC software is parallelized using threads. If your computer allows multi-threading operation, result will be showed in a shorter period of time.
 
