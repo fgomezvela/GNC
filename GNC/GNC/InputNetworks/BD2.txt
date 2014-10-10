@@ -1,0 +1,5 @@
+uno,cinco
+uno,seis
+cinco,seis
+seis,tres
+tres,dos
