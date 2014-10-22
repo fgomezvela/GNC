@@ -12,8 +12,7 @@ To use this tool, you must download the GNC.zip file. Furthermore, inside this z
 Usage information
 =================
 
-To launch the app, extract the zip file and do a double click in “GNC.jar”. Automatically, a main windows will be appear. In this windows, a input network and well known databases can be chosen to star the process. As results will be obtained by the app, they will be showed.
-
+To launch the app, extract the zip file. you can choose between a java swing GUI interface or command line.
 If you have any question, please read "User Guide" for more details.
 
 
