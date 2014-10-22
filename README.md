@@ -10,7 +10,7 @@ To use the application, please, download the GNC.zip file. Inside this zip file,
 Usage information
 =================
 
-To launch the app, extract the zip file. There are two different implementations; a java swing GUI interface and a command line. If you have any question, please read "User Guide" for more details.
+To launch the app, extract the zip file. There are available two different implementations; a java swing GUI interface and a command line program. If you have any question about how to run, please read "User Guide.pdf" file.
 
 
 Troubleshooting and F.A.Q.
