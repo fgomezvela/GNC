@@ -16,10 +16,10 @@ To launch the app, extract the zip file. There are two different implementations
 Troubleshooting and F.A.Q.
 ==========================
 
-*Be patient. Although this program is fully optimized, usually it takes a long time, specially if you use files bigger than 1 MB.
-*Make sure that you have the JVM 1.5 or higher.
-*Give to Java Virtual Machine enough memory. At least 2048 MB. The more memory, the better.
-*News input network and biological databases files must be a “.txt” file and it must have the following aspect:
+  *Be patient. Although this program is fully optimized, usually it takes a long time, specially if you use files bigger than 1 MB.
+  *Make sure that you have the JVM 1.5 or higher.
+  *Give to Java Virtual Machine enough memory. At least 2048 MB. The more memory, the better.
+  *News input network and biological databases files must be a “.txt” file and it must have the following aspect:
 
 Node1,Node2
 
@@ -32,9 +32,10 @@ Node1,Node N
 ...
 
 Node N, Node M
-*Please, do not modify or handle the "GNC" folder.
-*For further information see the "User Guide.pdf" file provided.
 
+  *Please, do not modify or handle the "GNC" folder.
+  *For further information see the "User Guide.pdf" file provided.
+  
 
 COPYRIGHT
 =========
