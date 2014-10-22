@@ -1,27 +1,23 @@
-﻿GNC: Using Graph Theory To Analyze Gene Network Coherence
+GNC: Using Graph Theory To Analyze Gene Network Coherence
 ===========================================
 
-This is a Java software for analyzing gene networks coherence using graph theory.
-The executable file is located on GNC Repository.
+This is a Java-based software tool for analyzing gene networks coherence using direct and indirect relationships.
+This tool can be used in linux, mac, and windows. In addition, GNC software is parallelized using a multi-threading design. 
 
-This application can be used in linux, mac, and windows. On the other hand, GNC software is parallelized using threads. If your computer allows multi-threading operation, result will be showed in a shorter period of time.
-
-To use this tool, you must download the GNC.zip file. Furthermore, inside this zip file,there is one folder called "GNC". This folder contains several crucial information to the jar file. Also, it contains many yeast gene network for testing the tool grouped as "Input Network" and "Biological Databases". 
+To use the application, please, download the GNC.zip file. Inside this zip file, there is a folder called "GNC". This folder contains several crucial information of the executable file. Also, it contains some gene networks for testing the tool grouped as "Input Network" and "Biological Databases". 
 
 
 Usage information
 =================
 
-To launch the app, extract the zip file and do a double click in “GNC.jar”. Automatically, a main windows will be appear. In this windows, a input network and well known databases can be chosen to star the process. As results will be obtained by the app, they will be showed.
-
-If you have any question, please read "User Guide" for more details.
+To launch the app, extract the zip file. There are two different implementations; a java swing GUI interface and a command line. If you have any question, please read "User Guide" for more details.
 
 
 Troubleshooting and F.A.Q.
 ==========================
 
 *Be patient. Although this program is fully optimized, usually it takes a long time, specially if you use files bigger than 1 MB.
-*Make sure that you dispose the lastest Java update installed.
+*Make sure that you have the JVM 1.5 or higher.
 *Give to Java Virtual Machine enough memory. At least 2048 MB. The more memory, the better.
 *News input network and biological databases files must be a “.txt” file and it must have the following aspect:
 
@@ -36,12 +32,13 @@ Node1,Node N
 ...
 
 Node N, Node M
-*Do not modify or handle the "GNC" folder under any situation.
-*For more datails use "User Guide".
+*Please, do not modify or handle the "GNC" folder.
+*For further information see the "User Guide.pdf" file provided.
 
 
 COPYRIGHT
 =========
 <a href="http://www.upo.es/eps/fgomez/">Francisco Gómez Vela</a> (<a href="mailto:fgomez@upo.es">fgomez@upo.es</a>), José Antonio Lagares (<a href="mailto:jalagrod@gmail.com">jalagrod@gmail.com</a>) and <a href="http://www.upo.es/eps/ndiaz/">Norberto Díaz-Díaz</a> (<a href="mailto:ndiaz@upo.es">ndiaz@upo.es</a>). 
 
-Copyright © 2013 Universidad Pablo de Olavide, Spain.
+Copyright © 2014 Universidad Pablo de Olavide, Spain.
+
