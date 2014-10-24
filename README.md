@@ -1,8 +1,8 @@
 GNC: Gene Network Coherence with direct and indirect relationships
 ===========================================
 
-This is a Java-based software tool for analyzing gene networks coherence using direct and indirect relationships.
-This tool can be used in linux, mac, and windows plataforms. In addition, GNC software is parallelized using a multi-threading design. 
+This is a Java-based software tool for analysing gene networks coherence using direct and indirect relationships.
+This tool can be used in linux, mac, and windows platforms. In addition, GNC software use a multi-threading design for faster analysis. 
 
 To use the application, please, download the GNC.zip file. Inside this zip file, there is a folder called "GNC". This folder contains several crucial information of the executable file. Also, it contains some gene networks for testing the tool grouped as "Input Network" and "Biological Databases". 
 
